@@ -1,0 +1,7 @@
+{
+  "email": "email",
+  "password": "password",
+  "number_of_photo": 10,
+  "search_names": ["name1", "name2"],
+  "delete_files": [".DS_Store"]
+}
